@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "40306e82bd34fe34",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cd0b914391047d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6014195b25289e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react/useEffect.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63c904bdf32b2298",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab2d3600a05b738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed8b2440b0fcd469",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a2ada2b41f3a9b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ab85e2ea8987fe7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e6c11081b997d66",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df6048f6c5cd153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48935d1a6980547b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "react/useEffect.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21c2452dd7a1026f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "react/useEffect.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4947ce837c84ab9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1d8bfa7913033c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "react/useEffect.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "ed8b2440b0fcd469",
+  "lastOpenFiles": [
+    "react/Introduction.md",
+    "react/Rappels & Javascript avancé.md",
+    "react/React.md",
+    "react/useEffect.md",
+    "react/useState.md",
+    "symfony/Symfony.md",
+    "react",
+    "Untitled.canvas",
+    "symfony",
+    "git/git.md"
+  ]
+}
